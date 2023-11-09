@@ -7,7 +7,7 @@
   box-shadow: 2px 2px 2px 2px black;
   background: rgb(6,84,170);
 background: linear-gradient(90deg, rgba(6,84,170,1) 37%, rgba(0,248,255,1) 100%);
-}
+} 
 
 .booking-title {
   font-size: 50px;
